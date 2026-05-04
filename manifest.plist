@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>【这里粘贴你刚才在Release里拷贝的IPA链接】</string>
+                    <string>https://github.com/xiosz/app/releases/download/1/LCSign-1.0-7.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
